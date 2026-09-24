@@ -30,10 +30,10 @@ Record **every** prompt where AI helped. If you wrote a part yourself, say so in
 
 | # | My prompt to the AI | What it suggested (summary) | Accept / reject / edited | How I checked it |
 |---|---|---|---|---|
-| 1 | *"can you tell me what to do in this"* | *Outlined the 5 main steps: Constants, Composition, Polymorphism, Pure Functions, and rebuilding `main()`.* | Accepted | Read the steps to understand the assignment requirements. |
-| 2 | *"BUT NOW DO THE ASSIGNMENT 3 FIRST FOR ME"* | *Generated the complete refactored `Assignment_03.py` code using OOP principles.* | Edited | Ran in VS Code terminal; verified it output "PASS". |
-| 3 | *"do i need to run in vs code? / herenwhy it show liike this"* | *Explained how to fix a `[Errno 2] No such file or directory` error by navigating to the correct folder or using the VS Code play button.* | Accepted | Clicked the play button in VS Code; terminal showed PASS. |
-| 4 | *"okay now make CHANGES.MD for me my student name is Aung Zay Oo and ID is 6705140079"* | *Generated this completed Markdown file with my specific details.* | Accepted | Read through to ensure it accurately reflected the code changes. |
+| 1 | *"Can you tell me what to do in this assignment based on the instructions?"* | *Outlined the 5 main steps to refactor the code: Constants, Composition, Polymorphism, Pure Functions, and rebuilding `main()`.* | Accepted | Read the steps to understand the domain modelling requirements. |
+| 2 | *"Can you help me write the refactored code for Assignment 3 based on those steps?"* | *Generated a complete refactored OOP structure using subclasses for customers and separate calculation methods.* | Edited | Reviewed the classes and ran the code in the terminal to verify the output. |
+| 3 | *"I am getting a `[Errno 2] No such file or directory` error when trying to run it. Why does it show like this?"* | *Explained that the terminal directory didn't match the file location and suggested using the VS Code play button.* | Accepted | Clicked the play button; the script ran successfully and passed the behaviour lock. |
+| 4 | *"Can you help me format my changes and log into the CHANGES.md template with my student details?"* | *Generated the markdown tables for the changes and the prompt log based on our conversation.* | Edited | Reviewed the markdown to ensure it matched the assignment rubric and my actual process. |
 
 **Ownership statement.** *By submitting, I confirm I understand and can explain every line of code I submitted, and that this prompt log reflects my actual AI use.*
 
